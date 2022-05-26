@@ -1,0 +1,5 @@
+!pip install --pre deepchem
+!pip install transformers
+!pip install simpletransformers
+!pip install wandb
+!pip install regex
